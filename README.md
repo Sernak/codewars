@@ -1,1 +1,1 @@
-Codwars 
+Codwars
